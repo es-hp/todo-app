@@ -1,0 +1,50 @@
+[
+  {
+    "Task": "Clean bathroom",
+    "Difficulty": 3,
+    "Priority": "high",
+    "Completed": false
+  },
+  {
+    "Task": "Display cakes",
+    "Difficulty": 2,
+    "Priority": "med",
+    "Completed": false
+  },
+  {
+    "Task": "Make coffee",
+    "Difficulty": 1,
+    "Priority": "low",
+    "Completed": false
+  },
+  {
+    "Task": "Mop floor",
+    "Difficulty": 4,
+    "Priority": "med",
+    "Completed": true
+  },
+  {
+    "Task": "Clean counter",
+    "Difficulty": 1,
+    "Priority": "high",
+    "Completed": false
+  },
+  {
+    "Task": "Clean ice bucket",
+    "Difficulty": 2,
+    "Priority": "low",
+    "Completed": true
+  },
+  {
+    "Task": "Balance cash",
+    "Difficulty": 3,
+    "Priority": "low",
+    "Completed": false
+  },
+  {
+    "Task": "Fold towels",
+    "Difficulty": 1,
+    "Priority": "med",
+    "Completed": false
+  }
+]

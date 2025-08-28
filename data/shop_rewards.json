@@ -1,0 +1,18 @@
+{
+  "Employees": {
+    "a": { "icon": "👱", "cost": 220 },
+    "b": { "icon": "👩", "cost": 220 }
+  },
+  "Drinks": {
+    "a": { "icon": "🧃", "cost": 40 },
+    "b": { "icon": "🥛", "cost": 25 }
+  },
+  "Food": {
+    "a": { "icon": "🥪", "cost": 60 },
+    "b": { "icon": "🍦", "cost": 35 }
+  },
+  "Furniture": {
+    "a": { "icon": "🪑", "cost": 200 },
+    "b": { "icon": "💐", "cost": 180 }
+  }
+}

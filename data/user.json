@@ -1,0 +1,12 @@
+{
+  "username": "h",
+  "avatar": "👩",
+  "level": 100,
+  "tips": 235,
+  "rewards": {
+    "employees": ["👱", "👩"],
+    "drinks": ["☕️", "🍵", "🥛"],
+    "food": ["🥐"],
+    "furniture": ["🪑", "💐"]
+  }
+}
