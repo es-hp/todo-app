@@ -21,6 +21,8 @@ A cafe themed, gamified todo list app. User is a cafe 'owner' and earns 'tips' (
 
 ## tools
 
+- "init" files created in subfolders with all imports/exports compiled into a package for easier and cleaner imports.
+
 ### control_stats.py
 
 - Created custom functions for increasing level, increasing tips, and decreasing tips to be used on app pages.
