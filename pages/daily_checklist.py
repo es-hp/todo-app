@@ -226,31 +226,6 @@ def daily_checklist():
                 line_breaks(1)
                 success_msg("Priority edited successfully!")
                 break
-            
-            # # Edit completed
-            # elif choice == "4":
-            #   line_breaks(1)
-            #   while True:
-            #     completed_status = dailies[daily_task_index]["Completed"]
-            #     status_text = "Completed" if completed_status else "Incomplete"
-            #     print(f"Current task status: {status_text}")
-            #     line_breaks(1)
-                
-            #     new_status = "incomplete" if completed_status else "completed"
-            #     choice = input(f"Change to {new_status}? (y/n): ").strip().lower()
-                
-            #     if not choice:
-            #       invalid_msg("Input cannot be empty.")
-            #     elif choice == "n":
-            #       break
-            #     elif choice == "y":
-            #       dailies[daily_task_index]["Completed"] = not completed_status
-            #       save_json(dailies_data_path, dailies)
-            #       line_breaks(1)
-            #       success_msg("Task status edited successfully!")
-            #       break
-            #     else:
-            #       invalid_msg()
                   
             else:
               invalid_msg()
